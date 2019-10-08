@@ -5,10 +5,13 @@
  */
 package awajabanb06.com.awa.awajaba;
 
+import java.time.LocalDate;
+
 /**
  *
  * @author developpeur
  */
 public class Repas {
-    
+    private int numero;
+    private LocalDate date;
 }
